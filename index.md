@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Hi! My name is Idong. Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. I plan to talk about creating a website with GitHub Pages and Jekyll!
